@@ -81,4 +81,3 @@ Through this project, I learned:
 
 This project is my first attempt at building a real-world AI application. It helped me understand the fundamentals of AI integration, application development, and deployment while strengthening my problem-solving and coding skills.
 
-⭐ If you like this project, feel free to star the repository!
